@@ -1,0 +1,2 @@
+# DesicionTree
+UAS Kecerdasan Buatan
